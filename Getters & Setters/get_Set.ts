@@ -7,7 +7,7 @@ class user{
      constructor(
       public name:string,
       public email:string,
-      // private userId:string                         // this is for futuure uses
+      // private userId:string                         // this is for futuure uses -
     ){
      }
 
