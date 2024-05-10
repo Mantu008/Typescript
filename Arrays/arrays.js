@@ -1,0 +1,13 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var superHeros = [];
+var heroPower = [];
+superHeros.push("mantu");
+heroPower.push(3);
+console.log(superHeros);
+console.log(heroPower);
+var allUsers = [];
+allUsers.push({ name: "mantu", isActive: false });
+console.log(allUsers);
+allUsers.push({ name: "sahil", isActive: true });
+console.log(allUsers);
